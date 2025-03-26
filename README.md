@@ -5,9 +5,6 @@
 
 A machine learning project that recommends songs based on audio features and user preferences, powered by Spotify's API.  
 
-## 🔍 Demo  
-![Recommendation Demo](assets/recommendation_demo.gif)  
-
 ## 📥 Installation  
 ```bash
-git clone https://github.com/Cavendish02/Music-Recommendation-System.git
+git clone [https://github.com/Cavendish02/Music-Recommendation-System.](https://github.com/Cavendish02/-Spotify-Style-Music-Recommendation-Engine/tree/main)git
