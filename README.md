@@ -7,4 +7,4 @@ A machine learning project that recommends songs based on audio features and use
 
 ## 📥 Installation  
 ```bash
-git clone [https://github.com/Cavendish02/Music-Recommendation-System.](https://github.com/Cavendish02/-Spotify-Style-Music-Recommendation-Engine/tree/main)git
+git clone https://github.com/Cavendish02/-Spotify-Style-Music-Recommendation-Engine.git
